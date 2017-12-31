@@ -1,0 +1,264 @@
+/**
+img {
+    border-radius: 50px;
+    border-size: 10px;
+    height: 19px;
+    width: 20px;
+    position: middle;
+}
+**/
+/**well**/
+.navbar-inverse {
+    background-color: #000033;
+    border-color: #080808;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 15px;
+}
+
+input {
+    line-height: normal;
+    width: 320px;
+    margin: 17px;
+}
+
+
+.well {
+    min-height: 13px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+    height: 184px;
+    width: 1373px;
+    margin-left: -120px;
+    margin-top: -37px;
+    background: #006699;
+}
+.panel-default {
+    border-color: #ddd;
+    height: 170px;
+}
+
+.panel-body {
+    padding: 0px;
+}
+.panel-sign{
+    padding: 60px 30px;
+    margin: 10px 6px;
+}
+
+.col-md-3 {
+    width: 27%;
+    margin-left: 65%;
+    margin-top: -16%;
+    
+}
+
+
+.col-md-3 {
+    width: 30%;
+    margin-left: 69%;
+    margin-top: -29%;
+}
+.col-md-4 {
+    width: 21.333333%;
+}
+.col-lg-4 {
+    width: 39.333%;
+    margin-top: 25px;
+}
+
+.col-sm-6 {
+    width: 58%;
+}
+
+section, summary {
+    display: block;
+    margin: 76px;
+    margin-top: -71px;
+    padding: 11px;
+   
+}
+.row {
+    margin-right: 10px;
+    margin-left: 70px;
+    width: 141%;
+}
+.btn-sm {
+    margin-top: -100px;
+    height: 185px;
+    width: 370px;
+}
+.btn {
+    display: inline-block;
+    padding: 5px 29px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor:pointer;
+    background-image: none;
+    border: 1px solid white-space;
+    border-radius: 2px;
+}
+
+.btn-primary {
+    color: #fff;
+    background: white;
+    color: blue;
+    border-color: #337ab7;
+    margin: 5px 97px;
+    padding: 3px 12px;
+    border-radius: 1px solid ;
+}
+
+.btn-info {
+    color: blue;
+    border-color: blue;
+    margin: -33px;
+    background: white;
+    border-size :50px;
+    
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    
+    padding: 8px 21px;
+    margin: 8px 23px;
+}
+img {
+    vertical-align: middle;
+    border-radius: 0px;
+}
+
+.btn-lg {
+    padding: 0px 9px;
+    font-size: 20px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    margin: 110px -54px;
+    margin-left: -256px;
+    background: white;
+}
+ **/
+
+/** login**/
+
+.container-login {
+    width: 1060px;
+    margin: 145px;
+} 
+.container-sign-in {
+    width: 991px;
+    margin: 107px 177px;
+    height: 1060;
+}
+
+.panel-main {
+    border-color: #ddd;
+    height: 371px;
+    width: 944px;
+    margin: 94px 178px;
+}
+.form-control {
+    display: block;
+    width: 79%;
+    height: 31px;
+    padding: 8px 12px;
+    font-size: 15px;
+    line-height: 1.429;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+ .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+    position: absolute;
+    margin-top: 2px;
+    margin-left: -169px;
+}
+label {
+    min-height: 20px;
+    padding-left: 50px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+}
+.btn-primary {
+    color: #fff;
+    background: white;
+    color: blue;
+    border-color: #337ab7;
+    margin: 5px 97px;
+    padding: 4px 12px;
+    border-radius: 1px solid;
+    margin-top: -56px;
+    margin-left: 604px;
+}
+
+.btn-lg {
+    padding: 4px 150px;
+    font-size: 20px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    margin: 49px;
+    margin-left: -155px;
+    background: #006699;
+    color: white;
+}
+label {
+    min-height: 20px; 
+    padding-left: 16px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: bold;
+}
+/**Sign in**/
+.container-sign-in {
+    width: 1060px;
+    margin: 50px 131px;
+    height: 1060;
+} 
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 7px 65px;
+    margin: 20px 23px;
+    background: #006699;
+    color: white;
+}
+
+/**Dashboard**/
+
+.row {
+    margin-right: 17px;
+    margin-left: 7px;
+    width: 132%;
+    margin-top:-99px; 
+}
+
+/** Footer**/
+ 
+.footer{
+    background:#000033;
+    color: white;
+
+}
